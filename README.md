@@ -4,7 +4,7 @@ Repo consisting of flask programs to fetch top 3 repos from git given an org nam
 This project consists of API which returns top 3 repositories of an organisation in
 Github by stars.
 
- The .py file "fetch_top_3_repos.py" is run to start the API server that fethes the top 3 repos of an organization from GitHub
+ The .py file "fetch_top_3_repos.py" is run to start the API server that fetches the top 3 repos of an organization from GitHub
 
 ## To start the server:
 
